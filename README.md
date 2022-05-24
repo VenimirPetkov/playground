@@ -1,1 +1,1 @@
-# Venimir Petkov Playground
+# singleton contract which implements permits and relies on max allowances.
